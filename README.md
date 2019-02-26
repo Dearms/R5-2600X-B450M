@@ -1,0 +1,9 @@
+# R5-2600X-B450M
+AMD R5 2600X 
+
+AMD radeon vega56
+
+TUF B450M-PLUS GAMING
+
+
+
